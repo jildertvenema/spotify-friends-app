@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/spotify-friends-app/static/css/main.28415029.chunk.css",
+    "main.js": "/spotify-friends-app/static/js/main.0db5f8df.chunk.js",
+    "main.js.map": "/spotify-friends-app/static/js/main.0db5f8df.chunk.js.map",
+    "runtime~main.js": "/spotify-friends-app/static/js/runtime~main.ff025761.js",
+    "runtime~main.js.map": "/spotify-friends-app/static/js/runtime~main.ff025761.js.map",
+    "static/css/2.609d5137.chunk.css": "/spotify-friends-app/static/css/2.609d5137.chunk.css",
+    "static/js/2.dd574d1f.chunk.js": "/spotify-friends-app/static/js/2.dd574d1f.chunk.js",
+    "static/js/2.dd574d1f.chunk.js.map": "/spotify-friends-app/static/js/2.dd574d1f.chunk.js.map",
+    "index.html": "/spotify-friends-app/index.html",
+    "precache-manifest.b67b00d139066f54474586aebef5e266.js": "/spotify-friends-app/precache-manifest.b67b00d139066f54474586aebef5e266.js",
+    "service-worker.js": "/spotify-friends-app/service-worker.js",
+    "static/css/2.609d5137.chunk.css.map": "/spotify-friends-app/static/css/2.609d5137.chunk.css.map",
+    "static/css/main.28415029.chunk.css.map": "/spotify-friends-app/static/css/main.28415029.chunk.css.map"
+  }
+}
